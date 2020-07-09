@@ -9,7 +9,7 @@ My blog: http://shahansdiary.com/
 ```bash
 ├── Core
 │   ├── ReactJS
-│   ├── Reat Native
+│   ├── React Native
 │   ├── ReduxJS
 │   ├── NextJS
 │   ├── Apollo Graphql
