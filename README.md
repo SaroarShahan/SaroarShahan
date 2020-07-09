@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hi, Shahan here!👋
 
-<!--
-**SaroarShahan/SaroarShahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Front-End Engineer and a tech enthusiast guy. I love my profession because I love problem-solving & coding and it's my passion. Besides my profession, I always try to contribute to local tech communities.
 
-Here are some ideas to get you started:
+My blog: http://shahansdiary.com/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Technical Skills:
+
+```bash
+├── Core
+│   ├── ReactJS
+│   ├── Reat Native
+│   ├── ReduxJS
+│   ├── NextJS
+│   ├── Apollo Graphql
+│   ├── HTML5
+│   ├── CSS3
+├── Others
+│   ├── React Router Dom & Reach Router
+│   ├── Styled Components & Emotion
+│   ├── Bulma, Tailwindcss, React-bootstrap, Bootstrap, Material-ui & Ant.design
+│   ├── GulpJS
+│   ├── Webpack
+│   ├── Git, Slack, Microsft Planner
+├── Languages
+│   ├── JavaScript
+│   ├── C/C++
+└──
+```
