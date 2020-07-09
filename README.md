@@ -16,6 +16,7 @@ My blog: http://shahansdiary.com/
 │   ├── HTML5
 │   ├── CSS3
 ├── Others
+│   ├── Redux Thunk & Redux Saga
 │   ├── React Router Dom & Reach Router
 │   ├── Styled Components & Emotion
 │   ├── Bulma, Tailwindcss, React-bootstrap, Bootstrap, Material-ui & Ant.design
