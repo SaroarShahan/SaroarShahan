@@ -1,6 +1,6 @@
 ### Hi, Shahan here!👋
 
-I’m a JavaScript & tech enthusiast guy. Currently, I'm working at [VivaSoft Limited](http://www.vivasoftltd.com/) as a Front-End Engineer. I love to play with ReactJS & ReactNative and love my profession due to I love problem-solving & coding as well as it's my passion. Besides my profession, I always try to contribute to local tech communities.
+I’m a JavaScript & tech enthusiast guy. Currently, I'm working at [VivaSoft Limited](http://www.vivasoftltd.com/) as a Front-End Engineer. I love to play with ReactJS & ReactNative. Problem-solving & coding is my passion. Besides my profession, I always try to contribute to local tech communities.
 
 Here is my blog: [shahansdiary.com](http://shahansdiary.com/)
 
