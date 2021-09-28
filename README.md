@@ -26,6 +26,7 @@ Here is my blog: [shahansdiary.com](http://shahansdiary.com/)
 │   ├── Git, Slack, Microsft Planner
 ├── Languages
 │   ├── JavaScript
+│   ├── TypeScript
 │   ├── Dart
 │   ├── C/C++
 └──
