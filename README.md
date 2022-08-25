@@ -1,6 +1,6 @@
-### Hi, Shahan here!👋
+### Hi,
 
-I’m a JavaScript & tech enthusiast guy. Currently, I'm working at [VivaSoft Limited](http://www.vivasoftltd.com/) as a Front-End Engineer. I love to play with ReactJS & ReactNative. Problem-solving & coding is my passion. Besides my profession, I always try to contribute to local tech communities.
+This is Saroar Hossain Shahan, a Sr. Front-End Engineer & tech enthusiast guy. I love to play with ReactJS and NodeJS. Problem-solving and coding is my passion. Besides my profession, I always try to contribute to my local tech communities.
 
 Here is my blog: [shahansdiary.com](http://shahansdiary.com/)
 
