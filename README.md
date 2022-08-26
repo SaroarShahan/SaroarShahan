@@ -9,17 +9,18 @@ Here is my blog: [shahansdiary.com](http://shahansdiary.com/)
 ```bash
 ├── Core
 │   ├── ReactJS
-│   ├── React Native
-│   ├── ReduxJS
+│   ├── NodeJS (ExpressJS)
+│   ├── ReduxJS/ReduxToolkit
+│   ├── ReactQuery
 │   ├── NextJS
 │   ├── Apollo Graphql
 │   ├── HTML5
-│   ├── CSS3
+│   ├── CSS3 (SASS/SCSS)
 ├── Others
 │   ├── Redux Thunk & Redux Saga
 │   ├── React Router Dom & Reach Router
 │   ├── Styled Components & Emotion
-│   ├── Bulma, Tailwindcss, React-bootstrap, Bootstrap, Material-ui & Ant.design
+│   ├── Tailwindcss, React-bootstrap, Bootstrap, Material-UI
 │   ├── GulpJS
 │   ├── Webpack
 │   ├── Docker
@@ -27,7 +28,9 @@ Here is my blog: [shahansdiary.com](http://shahansdiary.com/)
 ├── Languages
 │   ├── JavaScript
 │   ├── TypeScript
-│   ├── Dart
 │   ├── C/C++
+├── Database
+│   ├── MySQL
+│   ├── MongoDB
 └──
 ```
