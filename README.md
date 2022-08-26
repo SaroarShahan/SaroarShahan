@@ -1,8 +1,10 @@
-### Hi,
+## Hello :wave:
 
-This is Saroar Hossain Shahan, a Sr. Front-End Engineer & tech enthusiast guy. I love to play with ReactJS and NodeJS. Problem-solving and coding is my passion. Besides my profession, I always try to contribute to my local tech communities.
+Welcome to my Github profile!
 
-Here is my blog: [shahansdiary.com](http://shahansdiary.com/)
+I am **Shahan**, a **Senior Front-End Engineer** from Dhaka, based in Bangladesh. I love to play with ReactJS and NodeJS. Problem-solving and coding is my passion. Besides my profession, I always try to contribute to my local tech communities.
+
+You can discover my blog at [shahansdiary.com](http://shahansdiary.com/)
 
 #### Technical Skills:
 
@@ -34,3 +36,5 @@ Here is my blog: [shahansdiary.com](http://shahansdiary.com/)
 │   ├── MongoDB
 └──
 ```
+
+**Thanks for visiting my profile :heart:**
