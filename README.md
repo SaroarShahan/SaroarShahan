@@ -2,9 +2,9 @@
 
 Welcome to my Github profile!
 
-I am **Shahan**, a **Senior Front-End Engineer** from Dhaka, based in Bangladesh. I love to play with ReactJS and NodeJS. Problem-solving and coding is my passion. Besides my profession, I always try to contribute to my local tech communities.
+I am a **Senior Front-Fnd Engineer** who loves to play with **ReactJS** and **NextJS** in **TypeScript**, a **blogger** who wrote extensively many technical articles, and a **tech enthusiast guy** who lives and works in Dhaka, Bangladesh. Problem-solving and coding is my passion. Besides my profession, I always contribute to my local tech communities. 
 
-You can discover my blog at [shahansdiary.com](http://shahansdiary.com/)
+My skill set includes JavaScript, TypeScript, ReactJS, NextJS, Redux/ReduxToolkit, ReactQuery, Webpack, etc. I have done team lead as well.
 
 #### Technical Skills:
 
