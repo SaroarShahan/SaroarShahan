@@ -1,39 +1,31 @@
 ## Hello :wave:
 
-Welcome to my Github profile!
-
-I am a **Senior Front-Fnd Engineer** who loves to play with **ReactJS** and **NextJS** in **TypeScript**, a **blogger** who wrote extensively many technical articles, and a **tech enthusiast guy** who lives and works in Dhaka, Bangladesh. Problem-solving and coding is my passion. Besides my profession, I always contribute to my local tech communities. 
-
-My skill set includes JavaScript, TypeScript, ReactJS, NextJS, Redux/ReduxToolkit, ReactQuery, Webpack, etc. I have done team lead as well.
+Shahan is a Senior Front-End Engineer based in Dhaka, Bangladesh. With over six years of experience in this field, He has also served as a team lead, demonstrating his ability to lead and manage teams effectively. He specializes in creating user-friendly and responsive web applications, utilizing his expertise in various programming languages and frameworks such as HTML, CSS, JavaScript, React, and NextJS.
 
 #### Technical Skills:
 
 ```bash
-├── Core
-│   ├── ReactJS
-│   ├── NodeJS (ExpressJS)
-│   ├── ReduxJS/ReduxToolkit
-│   ├── ReactQuery
-│   ├── NextJS
-│   ├── Apollo Graphql
-│   ├── HTML5
-│   ├── CSS3 (SASS/SCSS)
-├── Others
-│   ├── Redux Thunk & Redux Saga
-│   ├── React Router Dom & Reach Router
-│   ├── Styled Components & Emotion
-│   ├── Tailwindcss, React-bootstrap, Bootstrap, Material-UI
-│   ├── GulpJS
-│   ├── Webpack
-│   ├── Docker
-│   ├── Git, Slack, Microsft Planner
 ├── Languages
-│   ├── JavaScript
-│   ├── TypeScript
+│   ├── JavaScript/TypeScript
 │   ├── C/C++
+├── Front-End
+│   ├── HTML5, CSS3 (SASS/SCSS), ReactJS, NextJS, ReduxJS/ReduxToolkit, ReactQuery, React Router Dom, Tailwindcss
+│   ├── Styled Components & Emotion, MUI and various other component libraries.
+├── i18n
+│   ├── i18next,react-i18next, i19n with ICU
+├── Testing
+│   ├── Jest, Mocha, React Testing Library
+├── Back-End
+│   ├── NodeJS (ExpressJS)
 ├── Database
 │   ├── MySQL
-│   ├── MongoDB
+│   ├── MongoDB (Mongoose)
+├── DevOps
+│   ├── Docker, Vercel, Cloudflare
+├── Tools
+│   ├── GulpJS
+│   ├── Webpack
+│   ├── Git, Slack, Jira, Microsoft Teams
 └──
 ```
 
