@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, This is Saroar Hossain Shahan</h1>
-<p>A Senior Front-End Engineer based in Dhaka, Bangladesh. With over six years of experience in this field, He has also been a team lead, demonstrating his ability to lead and manage teams effectively. He specializes in creating user-friendly and responsive web applications, utilizing his expertise in various programming languages and frameworks.</p>
+
+> A Senior Front-End Engineer based in Dhaka, Bangladesh. With over six years of experience in this field, He has also been a team lead, demonstrating his ability to lead and manage teams effectively. He specializes in creating user-friendly and responsive web applications, utilizing his expertise in various programming languages and frameworks.
+
 
 - 🔭 I’m currently working on **React, NextJS, TypeScript**
 
