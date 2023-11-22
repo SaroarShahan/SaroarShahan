@@ -2,6 +2,7 @@
 
 > A Senior Front-End Engineer based in Dhaka, Bangladesh. With over six years of experience in this field, He has also been a team lead, demonstrating his ability to lead and manage teams effectively. He specializes in creating user-friendly and responsive web applications, utilizing his expertise in various programming languages and frameworks.
 
+<p align="left"> <a href="https://twitter.com/SaroarShahan" target="blank"><img src="https://img.shields.io/twitter/follow/SaroarShahan?logo=twitter&style=for-the-badge" alt="SaroarShahan" /></a> </p>
 
 - 🔭 I’m currently working on **React, NextJS, TypeScript**
 
