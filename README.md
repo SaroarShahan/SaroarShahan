@@ -2,8 +2,6 @@
 
 > A Senior Front-End Engineer based in Dhaka, Bangladesh. With over six years of experience in this field, He has also been a team lead, demonstrating his ability to lead and manage teams effectively. He specializes in creating user-friendly and responsive web applications, utilizing his expertise in various programming languages and frameworks.
 
-<p align="left"> <a href="https://twitter.com/SaroarShahan" target="blank"><img src="https://img.shields.io/twitter/follow/SaroarShahan?logo=twitter&style=for-the-badge" alt="SaroarShahan" /></a> </p>
-
 - 🔭 I’m currently working on **React, NextJS, TypeScript**
 
 - 🌱 I’m currently exploring **In-Depth of Front-End Ecosystem, Bash**
@@ -16,8 +14,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/saroarshahan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saroarshahan" height="30" width="40" /></a>
-<a href="https://fb.com/SaroarShahan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="SaroarShahan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/saroarshahan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saroarshahan" height="30" width="40" /></a>
+<a href="https://fb.com/SaroarShahan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="SaroarShahan" height="30" width="40" /></a>
+<a href="https://twitter.com/SaroarShahan" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="SaroarShahan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
