@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **React, NextJS, TypeScript**
 
-- 🌱 I’m currently exploring **In-Depth of Front-End Ecosystem, NodeJS, E2E with Cypress, Bash**
+- 🌱 I’m currently learning **NodeJS, E2E with Cypress, Bash**
 
 - 👯 I’m looking to collaborate on **JS based projects**
 
