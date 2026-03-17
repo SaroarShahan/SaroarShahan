@@ -1,10 +1,14 @@
-<h1 align="center">Hi 👋, This is Saroar Hossain Shahan</h1>
+### > Hi 👋, Welcome to Shahan's workpad
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SaroarShahan) 
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/SaroarShahan)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SaroarShahan)
 
 > A Senior Front-End Engineer based in Dhaka, Bangladesh. With over 8 years of experience in this field, He has also been a team lead, demonstrating his ability to lead and manage teams effectively. He specializes in creating user-friendly and responsive web applications, utilizing his expertise in various programming languages and frameworks.
 
 - 🔭 I’m currently working on **React, NextJS, TypeScript**
 
-- 🌱 I’m currently learning **DevOps & Go**
+- 🌱 I’m currently learning **DevOps**
 
 - 👯 I’m looking to collaborate on **JS based projects**
 
@@ -12,16 +16,34 @@
 
 - 📫 How to reach me **saroar.shahan@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/saroarshahan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saroarshahan" height="30" width="40" /></a>
-<a href="https://fb.com/SaroarShahan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="SaroarShahan" height="30" width="40" /></a>
-<a href="https://twitter.com/SaroarShahan" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="SaroarShahan" height="30" width="40" /></a>
+### My Toolbox 
+![javaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Nextjs](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SaaS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Sequalize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-52B0E7?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Sonar](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white)
+
+### My Activities
+<p>
+<img alt="Shahan's Github History" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaroarShahan&theme=radical&count_private=true" height="200px" width="60%"/>
+<img alt="Shahan's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SaroarShahan&theme=radical&border=7F3FBF&background=0D1117" height="200px" width="39%"/>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align=left><a href=https://developer.mozilla.org/en-US/docs/Web/JavaScript target=_blank><img alt=javascript height=40 src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg width=40> </a><a href=https://www.typescriptlang.org/ target=_blank><img alt=javascript height=40 src=https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg width=40> </a><a href=https://reactjs.org/ target=_blank><img alt=react height=40 src=https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg width=40> </a><a href=https://nextjs.org/ target=_blank><img alt=nextjs height=40 src=https://cdn.worldvectorlogo.com/logos/next-js.svg width=40> </a><a href=https://redux.js.org/ target=_blank><img alt=reduxjs height=40 src=https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg width=40> </a><a href=https://jestjs.io target=_blank><img alt=jest height=40 src=https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg width=40> </a><a href=https://vitest.dev/ target=_blank><img alt=vitest height=40 src=https://vitest.dev/logo-shadow.svg width=40> </a><a href=https://www.cypress.io target=_blank><img alt=cypress height=40 src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4"width=40></a><a href=https://testing-library.com/ target=_blank><img alt=testinglibrary height=40 src=https://testing-library.com/img/octopus-64x64.png width=40> </a><a href=https://nodejs.org target=_blank><img alt=nodejs height=40 src=https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg width=40> </a><a href=https://expressjs.com target=_blank><img alt=express height=40 src=https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg width=40> </a><a href=https://tailwindcss.com/ target=_blank><img alt=tailwind height=40 src=https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg width=40> </a><a href=https://sass-lang.com target=_blank><img alt=sass height=40 src=https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg width=40> </a><a href=https://www.docker.com/ target=_blank><img alt=docker height=40 src=https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg width=40> </a><a href=https://www.linux.org/ target=_blank><img alt=linux height=40 src=https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg width=40> </a><a href=https://www.w3.org/html/ target=_blank><img alt=html5 height=40 src=https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg width=40> </a><a href=https://www.w3schools.com/css/ target=_blank><img alt=css3 height=40 src=https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg width=40> </a><a href=https://www.figma.com/ target=_blank><img alt=figma height=40 src=https://www.vectorlogo.zone/logos/figma/figma-icon.svg width=40> </a><a href=https://www.gnu.org/software/bash/ target=_blank><img alt=bash height=40 src=https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg width=40> </a><a href=https://postman.com target=_blank><img alt=postman height=40 src=https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg width=40> </a><a href=https://git-scm.com/ target=_blank><img alt=git height=40 src=https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg width=40></a>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SaroarShahan&show_icons=true&locale=en&layout=compact" alt="SaroarShahan" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SaroarShahan&show_icons=true&locale=en" alt="Saroar Shahan" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SaroarShahan&" alt="SaroarShahan" /></p>
+<p>
+<img alt="Shahan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=SaroarShahan&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&count_private=true" height="220px" width="55%"/>
+<img alt="Shahan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=SaroarShahan&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="225px" width="44%"/>
+</p>
