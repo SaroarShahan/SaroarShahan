@@ -38,6 +38,6 @@ Beyond coding, I am passionate about knowledge sharing, mentoring, and helping o
 <img alt="Shahan's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SaroarShahan&theme=radical&border=7F3FBF&background=0D1117" height="200px" width="39%"/>
 </p>
 <p>
-<img alt="Shahan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=SaroarShahan&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&count_private=true" height="220px" width="55%"/>
+<img alt="Shahan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=SaroarShahan&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&count_private=true" height="225px" width="55%"/>
 <img alt="Shahan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=SaroarShahan&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="225px" width="44%"/>
 </p>
