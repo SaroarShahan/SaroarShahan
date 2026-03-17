@@ -4,17 +4,11 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/SaroarShahan)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SaroarShahan)
 
-> A Senior Front-End Engineer based in Dhaka, Bangladesh. With over 8 years of experience in this field, He has also been a team lead, demonstrating his ability to lead and manage teams effectively. He specializes in creating user-friendly and responsive web applications, utilizing his expertise in various programming languages and frameworks.
+I am a Senior Full Stack Engineer with 9+ years of experience. I specialize in building scalable, high-performance systems and modern web applications.
 
-- 🔭 I’m currently working on **React, NextJS, TypeScript**
+Beyond coding, I am passionate about knowledge sharing, mentoring, and helping others deeply understand how things work.
 
-- 🌱 I’m currently learning **DevOps**
-
-- 👯 I’m looking to collaborate on **JS based projects**
-
-- 💬 Ask me about **JavaScript/TypeScript, React, NextJS**
-
-- 📫 How to reach me **saroar.shahan@gmail.com**
+⚡ Learn. Code. Teach.
 
 ### My Toolbox 
 ![javaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
