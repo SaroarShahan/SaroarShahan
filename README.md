@@ -1,14 +1,15 @@
-### > Hi 👋, Welcome to Shahan's workpad
+### > Hi 👋, Welcome to Shahan's workspace
+*A space for building, learning, and sharing.*
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SaroarShahan) 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/SaroarShahan)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SaroarShahan)
 
-I am a Senior Full Stack Engineer with 9+ years of experience. I specialize in building scalable, high-performance systems and modern web applications.
+I am a **Senior Full Stack Engineer** with 9+ years of experience. I specialize in building **scalable, high-performance** systems and modern web applications.
 
-Beyond coding, I am passionate about knowledge sharing, mentoring, and helping others deeply understand how things work.
+Beyond coding, I am passionate about **knowledge sharing, mentoring, and helping others** deeply understand how things work.
 
-⚡ Learn. Code. Teach.
+⚡ **Learn. Code. Teach**.
 
 ### My Toolbox 
 ![javaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
